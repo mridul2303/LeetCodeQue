@@ -14,7 +14,7 @@ public class Q1 {
         StringBuilder sb = new StringBuilder();
         while (colnumber > 0){
             colnumber = colnumber -1;
-            int rem = 26%colnumber;
+            int rem = colnumber%26;
             char ch = (char) ('A' + rem);
             sb.append(ch);
             colnumber = colnumber/26;
