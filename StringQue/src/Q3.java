@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//valid palindrome only alphanumeric 
+//valid palindrome only alphanumeric
 public class Q3 {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
