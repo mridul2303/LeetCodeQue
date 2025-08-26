@@ -1,4 +1,4 @@
-public class EASY2 {
+/*public class EASY2 {
     Map<Integer, Integer> count = new HashMap<>();
         for (int card : deck) {
         count.put(card, count.getOrDefault(card, 0) + 1);
@@ -20,3 +20,4 @@ private int findGCD(int a, int b) {
 }
 }
 }
+ */
