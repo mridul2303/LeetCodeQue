@@ -8,6 +8,7 @@ permute(arr);
     }
     static ArrayList<Array> permute(int[] arr){
         ArrayList<Array> list = new ArrayList<Array>();
-        
+
+        return list;
     }
 }
